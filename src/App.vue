@@ -9,5 +9,6 @@
   width: 10px;
   height: 20px;
   background-color: aqua;
+  border: 1px;
 }
 </style>
