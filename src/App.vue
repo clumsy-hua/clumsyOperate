@@ -3,11 +3,12 @@
 </template>
 
 <script setup lang="ts">
-const cc = 'woaininzuguo'
+  
 </script>
 
 <style lang="scss" scoped>
-.box {
+.box 
+{
   width: 10px;
   height: 20px;
   background-color: aqua;
